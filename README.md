@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello!! 😁
 
-<!--
-**ranofrolds/ranofrolds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pedro Zafalon. I am currently studying Computer Science at Universidade Estadual de Maringá.
 
-Here are some ideas to get you started:
+#### Connect with me on [LinkedIn][linkedin]
+#### My website [PedroZafalon][PedroZafalon]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
+
+---
+<div>
+  <a href="https://github.com/ranofrolds">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranofrolds&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranofrolds&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+
+[linkedin]: https://www.linkedin.com/in/pedro-zafalon/
+[PedroZafalon]:https://pedrozafalon.com.br
