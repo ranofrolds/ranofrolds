@@ -4,10 +4,6 @@ I'm Pedro Zafalon. I am currently studying Computer Science at Universidade Esta
 
 #### Connect with me on [LinkedIn][linkedin]
 #### My website [PedroZafalon][PedroZafalon]
-
-<br />
-<br />
-
 ---
 <div>
   <a href="https://github.com/ranofrolds">
