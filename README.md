@@ -1,6 +1,6 @@
 ### Hello!! 😁
 
-I'm Pedro Zafalon. I am currently studying Computer Science at Universidade Estadual de Maringá.
+I'm Pedro Zafalon. I am gratuated in Computer Science at Universidade Estadual de Maringá.
 
 #### Connect with me on [LinkedIn][linkedin]
 #### My website [PedroZafalon][PedroZafalon]
