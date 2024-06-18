@@ -3,7 +3,6 @@
 I'm Pedro Zafalon. I am gratuated in Computer Science at Universidade Estadual de Maringá.
 
 #### Connect with me on [LinkedIn][linkedin]
-#### My website [PedroZafalon][PedroZafalon]
 ---
 <div>
   <a href="https://github.com/ranofrolds">
@@ -12,4 +11,3 @@ I'm Pedro Zafalon. I am gratuated in Computer Science at Universidade Estadual d
 
 
 [linkedin]: https://www.linkedin.com/in/pedro-zafalon/
-[PedroZafalon]:https://pedrozafalon.com.br
