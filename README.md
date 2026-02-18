@@ -44,12 +44,7 @@ I design and build full-stack applications and AI agent architectures — from e
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranofrolds&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranofrolds&layout=compact&langs_count=8&theme=radical&count_private=true&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranofrolds&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranofrolds&theme=radical&hide_border=true&hide_current_streak=true&hide_longest_streak=true" />
 </div>
 
 ---
@@ -62,14 +57,6 @@ I design and build full-stack applications and AI agent architectures — from e
 | [**DevFellowship**](https://github.com/ranofrolds/learn-devfellowship) | Educational platform for developers | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) |
 | [**Sigah**](https://www.sigah.uem.br/) | Enterprise academic scheduling system at UEM | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) |
 | [**Pix to Crypto**](https://github.com/ranofrolds/pix-to-crypto) | PIX to cryptocurrency conversion platform | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
-
----
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ranofrolds&theme=redical&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
